@@ -1,1 +1,1 @@
-# MBA-USP-Data-Wrangning
+# MBA-USP-Data-Wrangling
